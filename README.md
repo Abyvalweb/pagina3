@@ -17,7 +17,7 @@
 
 <LI>Mayo</LI>
 
-<L|>Junio</LI>
+<LI>Junio</LI>
 
 </UL>
 <BR>
@@ -29,7 +29,7 @@
 
 <LI>Agosto</LI>
 
-<L>Septiembre</LI>
+<LI>Septiembre</LI>
 
 </OL>
 
@@ -55,11 +55,11 @@
 <L>Los meses de verano
 <OL>
 
-<L|>Julio</LI>
+<LI>Julio</LI>
 
-<L>Agosto</Li>
+<LI>Agosto</LI>
 
-<LI>Septiembrec/>
+<LI>Septiembre</LI>
 
 </OL>
 
